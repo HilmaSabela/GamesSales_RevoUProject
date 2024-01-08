@@ -28,7 +28,7 @@ In this project, Python is used to clean, transform, and analyze the dataset.
 Based on the analysis of game sales, the results are summarized as follows:
 - The oldest game is Hydlide which was released in 1984, while the youngest game is Valheim which was released in 2021. 
 - Electronic Art is the Publisher with the highest number of game publications with 19.
-- Blizzard Entertainment is the most game developer developing 10 games.
+- Blizzard Entertainment is the biggest developer of game developed 10 games.
 - The game series with the most sales is Minecraft with 33.
 - The series with the most games is StarCraft with 6 games.
 

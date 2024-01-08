@@ -15,4 +15,25 @@ There are also things to know when analyzing this game sales dataset such as:
 Games Sales: The dataset used for this analysis is the "Games Sales - Case Study.xlsx", containing information about games sales. 
 
 ## Tool
-In this project, Python is used to clean, transform, and analyze the dataset. 
+In this project, Python is used to clean, transform, and analyze the dataset.
+
+
+### The steps of analyzing data
+1. Data Preparation and Inspection
+2. Data Cleaning and Transforming
+3. EDA (Exploratory Data Analysis): Exploring game sales data to answer key questions.
+
+
+### Result
+Based on the analysis of game sales, the results are summarized as follows:
+- The oldest game is Hydlide which was released in 1984, while the youngest game is Valheim which was released in 2021. 
+- Electronic Art is the Publisher with the highest number of game publications with 19.
+- Blizzard Entertainment is the most game developer developing 10 games.
+- The game series with the most sales is Minecraft with 33.
+- The series with the most games is StarCraft with 6 games.
+
+## Limitation
+- From the data frame information there are NaN values in the Series column. 
+However, I didn't delete it because the rows of data that contain NaN values are also very important to analyze.
+- The data frame is clean enough, so I only remove duplicate data.
+

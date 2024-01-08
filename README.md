@@ -1,7 +1,7 @@
 # Games Sales - Data Analysis Portfolio Project - RevoU Study Case
 
 ## Project Overview
-During the mini-course held by RevoU, a lot of calm Data Analyst knowledge was obtained, including analyzing data using Python. 
+During the mini-course held by RevoU, I gained a lot of knowledge about data analysis, including analyzing data using Python. 
 RevoU provides a Study Case that can be done in the mini-course as an exercise in analyzing data. 
 The purpose of this project is to analyze datasets in the Gaming Industry. 
 There are also things to know when analyzing this game sales dataset such as: 

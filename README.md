@@ -16,7 +16,7 @@ There are also things to know when analyzing this game sales dataset such as:
    
 ## Data Source
 Games Sales: The dataset used for this analysis is the "Games Sales - Case Study.xlsx", containing information about games sales.
-[Download File Source Here](https://github.com/HilmaSabela/GamesSales_RevoUProject/blob/main/Games%20Sales%20-%20Case%20Study.xlsx)
+- [Download File Source Here](https://github.com/HilmaSabela/GamesSales_RevoUProject/blob/main/Games%20Sales%20-%20Case%20Study.xlsx)
 
 ## Tool
 In this project, Python is used to clean, transform, and analyze the dataset.

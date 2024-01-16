@@ -4,6 +4,9 @@
 During the mini-course held by RevoU, I gained a lot of knowledge about data analysis, including analyzing data using Python. 
 RevoU provides a Study Case that can be done in the mini-course as an exercise in analyzing data. 
 The purpose of this project is to analyze datasets in the Gaming Industry. 
+
+![alt text](image.png)
+
 There are also things to know when analyzing this game sales dataset such as: 
 1.	Which games are the newest and oldest in the dataset?
 2.	Which publisher publishes the most games?
@@ -17,6 +20,13 @@ Games Sales: The dataset used for this analysis is the "Games Sales - Case Study
 ## Tool
 In this project, Python is used to clean, transform, and analyze the dataset.
 
+Include some Python libraries worked with
+``` python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import datetime as date
+```
 
 ### The steps of analyzing data
 1. Data Preparation and Inspection

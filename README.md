@@ -32,8 +32,7 @@ import datetime as date
 ### The steps of analyzing data
 1. Data Preparation and Inspection
 2. Data Cleaning and Transforming
-3. EDA (Exploratory Data Analysis): Exploring game sales data to answer key questions.
-
+3. Analyzing game sales data to answer key questions.
 
 ### Result
 Based on the analysis of game sales, the results are summarized as follows:
